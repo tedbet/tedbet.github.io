@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tedbet.github.io</id>
     <title>ted&apos;s blog</title>
-    <updated>2020-12-26T13:28:58.436Z</updated>
+    <updated>2020-12-26T16:10:35.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tedbet.github.io"/>
     <link rel="self" href="https://tedbet.github.io/atom.xml"/>
@@ -16,11 +16,11 @@
         <link href="https://tedbet.github.io/post/hometown-barley/">
         </link>
         <updated>2020-08-31T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>不知道怎么了最近<br>
+        <summary type="html"><![CDATA[<p>不知道怎么了最近<br>
 脑海里总是浮现<br>
 小时候<br>
-麦田收获的场景</p>
-<p>汉江<br>
+麦田收获的场景<br/><br>
+汉江<br>
 平原<br>
 一捆一捆的麦穗<br>
 满眼无边的金黄<br>
@@ -41,11 +41,43 @@
 蚕丝<br>
 桑葚<br>
 扎脚的麦茬<br>
-年轻时的父母</p>
-<p>回不去的<br>
+年轻时的父母<br/><br>
+回不去的<br>
 时光<br>
 和<br>
 故乡</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>不知道怎么了最近<br>
+脑海里总是浮现<br>
+小时候<br>
+麦田收获的场景<br/><br>
+汉江<br>
+平原<br>
+一捆一捆的麦穗<br>
+满眼无边的金黄<br>
+蝉鸣<br>
+热浪<br>
+的确良衣裳<br>
+扁担和竹筐<br>
+看不见的蓝色天空深处传来的夏鸟叫<br>
+时不时在镰刀下出现的一窝窝鹌鹑蛋<br>
+毛桃<br>
+冰棒<br>
+大人的交谈<br>
+小孩的欢闹<br>
+大路两排整齐的白桦树<br>
+田间一两颗歪脖子垂柳<br>
+哗啦啦的风<br>
+起伏的麦浪<br>
+蚕丝<br>
+桑葚<br>
+扎脚的麦茬<br>
+年轻时的父母<br/><br>
+回不去的<br>
+时光<br>
+和<br>
+故乡</p>
+<!-- more -->
 ]]></content>
     </entry>
     <entry>
@@ -54,30 +86,30 @@
         <link href="https://tedbet.github.io/post/fight-against-tumor/">
         </link>
         <updated>2019-06-19T15:23:23.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="2018613-get-a-message-from-brother-said-dad-may-has-tumor2018615-fly-to-hospital-in-hometown2018617-fathers-day2018618-dragon-boat-festival2018619-transferred-to-a-specialist-hospital-in-another-province2018621-horrible-c-word-was-confirmed-start-treatment-start-fight-against-tumor2018624-back-to-earn-money2018807-autumn-beginning-day-discharged">2018.6.13: get a message from brother said dad may has tumor.<br>
+        <content type="html"><![CDATA[<p>2018.6.13: get a message from brother said dad may has tumor.<br>
 2018.6.15: fly to hospital in hometown.<br>
-2018.6.17: Father’s Day.<br>
+2018.6.17: Father's Day.<br>
 2018.6.18: Dragon boat Festival.<br>
 2018.6.19: transferred to a specialist hospital in another province.<br>
 2018.6.21: horrible C word was confirmed, start treatment, start fight against tumor.<br>
 2018.6.24: back to earn money.<br>
-2018.8.07: autumn beginning day, discharged.</h2>
-<h2 id="thiss-the-hardest-days-in-my-lifecried-a-lotcant-understand-whycant-face-to-my-fatherdont-know-how-to-comfort-momdont-know-how-can-we-get-through-thisi-feel-deeply-sorry-for-the-familyim-getting-paranoid-and-superstitiousi-start-to-become-a-vegetariani-start-to-call-parents-several-times-each-dayim-getting-angry-to-lifei-feel-more-fragile-and-lonely-and-depressedi-study-many-many-medical-articlesjust-wish-everything-is-ok-hope-everyone-is-well">this’s the hardest days in my life,<br>
+2018.8.07: autumn beginning day, discharged.<br/><br>
+this's the hardest days in my life,<br>
 cried a lot,<br>
-can’t understand why,<br>
-can’t face to my father,<br>
-don’t know how to comfort mom,<br>
-don’t know how can we get through this..<br>
+can't understand why,<br>
+can't face to my father,<br>
+don't know how to comfort mom,<br>
+don't know how can we get through this..<br>
 i feel deeply sorry for the family,<br>
-i’m getting paranoid and superstitious,<br>
+i'm getting paranoid and superstitious,<br>
 i start to become a vegetarian,<br>
 i start to call parents several times each day..<br>
-i’m getting angry to life,<br>
+i'm getting angry to life,<br>
 i feel more fragile and lonely and depressed,<br>
 i study many many medical articles..<br>
-just wish everything is OK, hope everyone is well..</h2>
-<h2 id="update">//update</h2>
-<p>2018.10: grandpa passed away, the same day father has finished the 1st round of chemo.<br>
+just wish everything is OK, hope everyone is well..<br/><br>
+//update<br/><br>
+2018.10: grandpa passed away, the same day father has finished the 1st round of chemo.<br>
 2018.11: feel uncomfortable, been hospitalized.<br>
 2018.12: cancer transferred to lymph.<br>
 2018.12-2019.2: the 2nd round of chemo.<br>
@@ -88,12 +120,12 @@ just wish everything is OK, hope everyone is well..</h2>
 2019.6.6: Dad can have some meal yesterday.<br>
 2019.6.7: dragon boat festival. Tumor may block all his throat, can't eat or drink anything now.<br>
 2019.6.16: a very sad Father's day.<br>
-2019.6.19: around 1:58 pm, after 11 days and nights of starving &amp; struggle, Dad passed away, leave us forever.</p>
-<p><strong>CRY ME A RIVER</strong></p>
-<p>2019.6.19-2019.6.21: funeral (the word I hate the most), heavy rain after months of drought.<br>
+2019.6.19: around 1:58 pm, after 11 days and nights of starving &amp; struggle, Dad passed away, leave us forever.<br/><br>
+<strong>CRY ME A RIVER</strong><br/><br>
+2019.6.19-2019.6.21: funeral (the word I hate the most), heavy rain after months of drought.<br>
 2019.6.21: the Summer Solstice (夏至).<br>
 2019.6.26: the first 7th day after Dad was gone, heard the first cicada chirp of this summer.<br>
-2019.6.29: after spending the most hard 23 days of my life, back to Shanghai for work.<br>
+2019.6.29: after spending the most hard 23 days of my life, back to Shanghai for work.<br/><br>
 need to take care of Mum and the family.<br>
 need to be strong.</p>
 ]]></content>
@@ -104,22 +136,40 @@ need to be strong.</p>
         <link href="https://tedbet.github.io/post/you-are/">
         </link>
         <updated>2019-01-31T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>你有<br>
+        <summary type="html"><![CDATA[<p>你有<br>
 满腔的愤怒<br>
 噩梦<br>
-无法排忧</p>
-<p>你有<br>
+无法排忧<br/><br>
+你有<br>
 沸腾的热血<br>
 回荡<br>
-荆棘之途</p>
-<p>你有<br>
+荆棘之途<br/><br>
+你有<br>
 年少的懵懂<br>
 潜藏<br>
-经久隐痛</p>
-<p>你有<br>
+经久隐痛<br/><br>
+你有<br>
 恍惚的年月<br>
 遗憾<br>
 一无所有</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>你有<br>
+满腔的愤怒<br>
+噩梦<br>
+无法排忧<br/><br>
+你有<br>
+沸腾的热血<br>
+回荡<br>
+荆棘之途<br/><br>
+你有<br>
+年少的懵懂<br>
+潜藏<br>
+经久隐痛<br/><br>
+你有<br>
+恍惚的年月<br>
+遗憾<br>
+一无所有</p>
+<!-- more -->
 ]]></content>
     </entry>
     <entry>
@@ -128,54 +178,53 @@ need to be strong.</p>
         <link href="https://tedbet.github.io/post/i-am-alone/">
         </link>
         <updated>2018-12-31T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>“I like being alone.. we’re better off alone.. we suffer alone, we die alone..”</p>
-<p>“I need you, Okay? I want you to be around as long as possible. ‘Cause I don’t know what i’m gonna do without you..”</p>
-<p>“Life is pain. I wake up every morning, I’m in pain. I go to work in pain. You know how many times I wanted to just give up? How many times I thought about ending it?..”</p>
-<p>“Because if you die, I’m alone..”</p>
-<p>“You're the only one I listen to..”</p>
-<p>“I'm pissed because i'm dying, that's not fair. And I need, I need a friend. I need to know that you're there. I need.. I need you to tell me that my life was worthwhile, and I need you to tell me that you love me..”</p>
-<p>“Because you need me, and.. I don't think that's a bad thing anymore..”</p>
-<figure data-type="image" tabindex="1"><img src="https://tedbet.github.io/post-images/1608981155987.jpeg" alt="" loading="lazy"></figure>
-<p>时间过得那么快<br>
+        <summary type="html"><![CDATA[<p>“I like being alone.. we're better off alone.. we suffer alone, we die alone..”<br/><br>
+“I need you, Okay? I want you to be around as long as possible. ‘Cause I don't know what i'm gonna do without you..”<br/><br>
+“Life is pain. I wake up every morning, I'm in pain. I go to work in pain. You know how many times I wanted to just give up? How many times I thought about ending it?..”<br/><br>
+“Because if you die, I'm alone..”<br/><br>
+“You're the only one I listen to..”<br/><br>
+“I'm pissed because i'm dying, that's not fair. And I need, I need a friend. I need to know that you're there. I need.. I need you to tell me that my life was worthwhile, and I need you to tell me that you love me..”<br/><br>
+“Because you need me, and.. I don't think that's a bad thing anymore..”<br/><br>
+<img src="https://tedbet.github.io/post-images/1608981155987.jpeg" alt="" loading="lazy"><br/>时间过得那么快<br>
 又那么慢<br>
 创业 or 造业<br>
 三年已满<br>
 知识长进不少，金钱几无收获<br>
 一切都那么难<br>
-终于到了放弃的时候</p>
-<p>奔忙而不得其名，劳累而不得其利<br>
+终于到了放弃的时候<br/><br>
+奔忙而不得其名，劳累而不得其利<br>
 求本逐末，是以经年，终老，归于尘土，烟消云散<br>
-何为？何谓！生活之难</p>
-<p>主动失业一月有多<br>
+何为？何谓！生活之难<br/><br>
+主动失业一月有多<br>
 一年只给自己一次彻底放纵的机会<br>
 心情低沉<br>
 好好哭一次吧，倾泻一下负面情绪<br>
 于是日夜颠倒，恶补这部“House M.D”<br>
 177集，跨越8年制作<br>
-哭着笑着，成了最近生活的全部<br>
+哭着笑着，成了最近生活的全部<br/><br>
 last 4 episodes<br>
 太虐<br>
 被感动的无以复加<br>
 反复看了好多遍，看一遍哭一遍<br>
 两周多，仍然走不出来<br>
-爱极、痛极</p>
-<p>House<br>
+爱极、痛极<br>
+<br/><strong>House</strong><br>
 通识浩瀚医术<br>
 纵他百丈清规<br>
 人若红尘，三千烦恼丝，不可谓不勇敢；<br>
 持才自傲，一拐一白褂，不可谓不超脱。<br>
 原罪难消，福祉不造，功德无获<br>
-看得清因果，参得透生死，却逃不脱轮回</p>
-<p>Wilson<br>
+看得清因果，参得透生死，却逃不脱轮回<br>
+<br/><strong>Wilson</strong><br>
 彼一时，此一世<br>
 对万物抱敬畏之心<br>
 对万事存智悲之意<br>
 因物而喜，因己而悲<br>
-顺不得意忘形，逆不悲天悯人</p>
-<p>But me<br>
+顺不得意忘形，逆不悲天悯人<br>
+<br/><strong>But me</strong><br>
 心中悲苦，求解脱之愿殷切<br>
 然清心寡欲，却从不曾得<br>
-House<br>
+<br/><strong>House</strong><br>
 我的精神支柱<br>
 最困难的时与境<br>
 如你般<br>
@@ -183,6 +232,62 @@ House<br>
 就不会孤单<br>
 就能<br>
 奋勇前行。。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>“I like being alone.. we're better off alone.. we suffer alone, we die alone..”<br/><br>
+“I need you, Okay? I want you to be around as long as possible. ‘Cause I don't know what i'm gonna do without you..”<br/><br>
+“Life is pain. I wake up every morning, I'm in pain. I go to work in pain. You know how many times I wanted to just give up? How many times I thought about ending it?..”<br/><br>
+“Because if you die, I'm alone..”<br/><br>
+“You're the only one I listen to..”<br/><br>
+“I'm pissed because i'm dying, that's not fair. And I need, I need a friend. I need to know that you're there. I need.. I need you to tell me that my life was worthwhile, and I need you to tell me that you love me..”<br/><br>
+“Because you need me, and.. I don't think that's a bad thing anymore..”<br/><br>
+<img src="https://tedbet.github.io/post-images/1608981155987.jpeg" alt="" loading="lazy"><br/>时间过得那么快<br>
+又那么慢<br>
+创业 or 造业<br>
+三年已满<br>
+知识长进不少，金钱几无收获<br>
+一切都那么难<br>
+终于到了放弃的时候<br/><br>
+奔忙而不得其名，劳累而不得其利<br>
+求本逐末，是以经年，终老，归于尘土，烟消云散<br>
+何为？何谓！生活之难<br/><br>
+主动失业一月有多<br>
+一年只给自己一次彻底放纵的机会<br>
+心情低沉<br>
+好好哭一次吧，倾泻一下负面情绪<br>
+于是日夜颠倒，恶补这部“House M.D”<br>
+177集，跨越8年制作<br>
+哭着笑着，成了最近生活的全部<br/><br>
+last 4 episodes<br>
+太虐<br>
+被感动的无以复加<br>
+反复看了好多遍，看一遍哭一遍<br>
+两周多，仍然走不出来<br>
+爱极、痛极<br>
+<br/><strong>House</strong><br>
+通识浩瀚医术<br>
+纵他百丈清规<br>
+人若红尘，三千烦恼丝，不可谓不勇敢；<br>
+持才自傲，一拐一白褂，不可谓不超脱。<br>
+原罪难消，福祉不造，功德无获<br>
+看得清因果，参得透生死，却逃不脱轮回<br>
+<br/><strong>Wilson</strong><br>
+彼一时，此一世<br>
+对万物抱敬畏之心<br>
+对万事存智悲之意<br>
+因物而喜，因己而悲<br>
+顺不得意忘形，逆不悲天悯人<br>
+<br/><strong>But me</strong><br>
+心中悲苦，求解脱之愿殷切<br>
+然清心寡欲，却从不曾得<br>
+<br/><strong>House</strong><br>
+我的精神支柱<br>
+最困难的时与境<br>
+如你般<br>
+内心强大<br>
+就不会孤单<br>
+就能<br>
+奋勇前行。。</p>
+<!-- more -->
 ]]></content>
     </entry>
     <entry>
@@ -193,7 +298,7 @@ House<br>
         <updated>2018-10-30T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>Get up earlier than usual this morning<br>
 Then receive a message from brother said grandpa may leave this world today<br>
-A very bad news<br>
+A very bad news<br/><br>
 Book a ticket to home<br>
 Then get a call telling me grandpa is stable<br>
 Change ticket to Saturday<br>
@@ -206,17 +311,17 @@ Run to home pack my bag then run to railway station<br>
 Get on the train with empty stomach<br>
 Find the neighbor next to my bed is a monk<br>
 I think it's a sign<br>
-May god sends his disciple to take care of grandpa</p>
-<p>Now I'm on the train writing this<br>
+May god sends his disciple to take care of grandpa<br/><br>
+Now I'm on the train writing this<br>
 Very sad<br>
 Want to cry but have no tears<br>
 Don't know how to react<br>
 Don't even know how to drown my sorrows<br>
-Just write down this to remind me never forget this day</p>
-<p>Grandpa<br>
+Just write down this to remind me never forget this day<br/><br>
+Grandpa<br>
 You are a good man<br>
-Lords have mercy</p>
-<p><strong>Rest In Peace</strong></p>
+Lords have mercy<br/><br>
+<strong>Rest In Peace</strong></p>
 ]]></content>
     </entry>
     <entry>
@@ -225,7 +330,10 @@ Lords have mercy</p>
         <link href="https://tedbet.github.io/post/autumn-flower/">
         </link>
         <updated>2018-09-30T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>花香○叶黄○秋伤○心慌○远望○故乡</p>
+]]></summary>
         <content type="html"><![CDATA[<p>花香○叶黄○秋伤○心慌○远望○故乡</p>
+<!-- more -->
 ]]></content>
     </entry>
     <entry>
@@ -234,7 +342,10 @@ Lords have mercy</p>
         <link href="https://tedbet.github.io/post/the-growing-pains/">
         </link>
         <updated>2018-05-31T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Hate it, but try to embrace it, then enjoy it..</p>
+]]></summary>
         <content type="html"><![CDATA[<p>Hate it, but try to embrace it, then enjoy it..</p>
+<!-- more -->
 ]]></content>
     </entry>
     <entry>
@@ -243,8 +354,12 @@ Lords have mercy</p>
         <link href="https://tedbet.github.io/post/mid-age-crisis/">
         </link>
         <updated>2018-02-28T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>No one dies a virgin, cause in the end, life fucks us all!<br>
+But if life fucks u, better fuck it back!</p>
+]]></summary>
         <content type="html"><![CDATA[<p>No one dies a virgin, cause in the end, life fucks us all!<br>
 But if life fucks u, better fuck it back!</p>
+<!-- more -->
 ]]></content>
     </entry>
     <entry>
@@ -253,8 +368,12 @@ But if life fucks u, better fuck it back!</p>
         <link href="https://tedbet.github.io/post/my-valentine/">
         </link>
         <updated>2018-02-13T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>孤单是一群人的 [狂欢] 是一群人的孤单</p>
-<p>-=My Valentine's Day=-</p>
+        <summary type="html"><![CDATA[<p>孤单是一群人的 [狂欢] 是一群人的孤单<br/><br>
+-=My Valentine's Day=-</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>孤单是一群人的 [狂欢] 是一群人的孤单<br/><br>
+-=My Valentine's Day=-</p>
+<!-- more -->
 ]]></content>
     </entry>
     <entry>
@@ -263,14 +382,14 @@ But if life fucks u, better fuck it back!</p>
         <link href="https://tedbet.github.io/post/love-hurts/">
         </link>
         <updated>2017-11-30T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>Love hurts!</p>
-<p>S02E09<br>
+        <content type="html"><![CDATA[<p>Love hurts!<br/><br>
+S02E09<br>
 &quot;Amarsi Un Po / To love a bit&quot;<br>
 Master of None<br>
-Netflix</p>
-<p>Aziz凭这集导编演的功底绝对值得又一座艾美奖杯</p>
-<p>观影有感：</p>
-<p>很容易掉进幻像的漩涡<br>
+Netflix<br/><br>
+Aziz凭这集导编演的功底绝对值得又一座艾美奖杯<br/><br>
+观影有感：<br/><br>
+很容易掉进幻像的漩涡<br>
 似乎<br>
 一切都很美好<br>
 美丽的肥皂泡<br>
@@ -279,8 +398,8 @@ Netflix</p>
 瞬间虚无<br>
 感知错位 鸡毛蒜皮<br>
 破碎的心<br>
-珍惜与挣扎</p>
-<p>很久很久以前<br>
+珍惜与挣扎<br/><br>
+很久很久以前<br>
 平行的世界<br>
 故事的轮回<br>
 恋而不得 以致心痛<br>
@@ -288,8 +407,8 @@ Netflix</p>
 迷失迷思 思前想后<br>
 鞍前马后 随叫随到<br>
 卿卿我我<br>
-我不是我</p>
-<p>始终会痛 刀斩长痛<br>
+我不是我<br/><br>
+始终会痛 刀斩长痛<br>
 终究会好 利刃诊疗<br>
 一周<br>
 或两三周<br>
@@ -298,6 +417,6 @@ Netflix</p>
 高攀不起 悄悄远离<br>
 我不睬你 你不理我<br>
 我还是我</p>
-]]></content>
+<!-- more -->]]></content>
     </entry>
 </feed>
